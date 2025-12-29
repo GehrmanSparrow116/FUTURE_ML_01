@@ -27,10 +27,7 @@ Export metrics & forecasts for Power BI
 
 Regressors improved accuracy — stable categories forecast better, while Technology remains more volatile.
 
-📁 Outputs
-File	Description
-forecast_metrics_with_regressors.csv	Accuracy metrics
-forecast_powerbi_with_regressors.csv	Forecast series
+
 ▶ Visuals Created
 
 Actual vs Forecast
